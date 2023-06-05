@@ -9,3 +9,5 @@ If you want to add more words in the sentence just created another list and a va
 I.e in the template I use the variable "firRW" for the first random word.
 
 This is one of my first python projects, but if you get more complicated and add multiple strings of data then the sentence can become very complex and can even be implemented with features like grammar detection, but this is a very basic structure for a command-line sentence generator.
+
+To use emojis in your sentences I recommend using this repository: https://github.com/carpedm20/emoji
