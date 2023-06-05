@@ -6,4 +6,6 @@ Change the list of words that come within the inital python list, this can be te
 so I recommend creating a seperate file that can be accessed by the list.
 
 If you want to add more words in the sentence just created another list and a variable for choosing a word
-I.e in the template I use the variable "
+I.e in the template I use the variable "firRW" for the first random word.
+
+This is one of my first python projects, but if you get more complicated and add multiple strings of data then the sentence can become very complex and can even be implemented with features like grammar detection, but this is a very basic structure for a command-line sentence generator.
